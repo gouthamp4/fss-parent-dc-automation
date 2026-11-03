@@ -1,0 +1,6 @@
+{
+  "devices": [
+    {"name": "parent-dc-switch-01", "address": "192.0.2.10", "platform": "example", "port": 22},
+    {"name": "parent-dc-switch-02", "address": "192.0.2.11", "platform": "example", "port": 22}
+  ]
+}
